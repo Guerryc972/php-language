@@ -1,0 +1,22 @@
+#titre_principal {
+  background-color: yellow;
+}
+
+li {
+  display: inline-block;
+  margin-left: 20px;
+}
+nav {
+  text-align: center;
+  display: block;
+  margin-top: -60px;
+  float: right;
+}
+aside {
+  background-color: aqua;
+  height: 50px;
+}
+.art {
+  margin-top: 20px;
+  background-color: beige;
+}
